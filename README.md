@@ -2,7 +2,7 @@
 <Br>
 <h2>Apresentação</h2>
 <p> Essa API foi desenvolvida com o treinamento "
-Building Web APIs with ASP.NET Core in .NET 6" oferecido pelo <strong>Linkedin Learning</strong> com o objetivo de aprender mais sobre as operações CRUD (CREATE, READ, UPDATE & DELETE) utilizando uma WEB API ASP.NET CORE.
+Building Web APIs with ASP.NET Core in .NET 6" oferecido pelo <strong>Linkedin Learning</strong> com o objetivo de aprender mais sobre as operações CRUD (CREATE, READ, UPDATE & DELETE) utilizando a plataforma .NET CORE
 
 <div> 
 <h3>Tecnologias e softwares utilizados</h3>
@@ -21,3 +21,7 @@ Building Web APIs with ASP.NET Core in .NET 6" oferecido pelo <strong>Linkedin L
 <h4>Autor</h4>
 <p>Vinicius Henrique G. Santos</p> 
 <p>Data: 22/01/2022</p> 
+
+
+<h4>Realize esse treinamento você também</h4>
+<a href="https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fbuilding-web-apis-with-asp-dot-net-core-in-dot-net-6%3Ftrk%3Dshare_ent_url%26shareId%3DWgkEqqrYRkeYT4xkiUQ3mg%253D%253D" target="_blank">Building Web APIs with ASP.NET Core in .NET 6</a>
